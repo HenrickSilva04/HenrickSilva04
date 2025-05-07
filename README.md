@@ -1,7 +1,10 @@
-# Olá! Eu sou o Henrick 👋
+# 👋 Olá! Eu sou o Henrick Silva
 
 💻 Desenvolvedor apaixonado por tecnologia  
-🚀 Em busca de aprender e crescer na área de desenvolvimento
+📚 Atualmente estudando: Ionic, SimplePHP, desenvolvimento mobile e backend com Spring  
+🚀 Buscando sempre evoluir como desenvolvedor fullstack
+
+---
 
 ## 🚀 Tecnologias que uso
 
@@ -20,9 +23,17 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
+---
 
-## 📈 Estatísticas
+## 📊 Estatísticas do GitHub
+
 ![Henrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenrickSilva04&show_icons=true&theme=tokyonight)
 
-## 🔗 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrick-silva-ab47a9260)
+---
+
+## 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrick-silva-ab47a9260)  
+📫 **Email:** henrick040919@gmail.com
+
+---

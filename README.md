@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá! Eu sou o Henrick 👋
 
-<!--
-**HenrickSilva04/HenrickSilva04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor apaixonado por tecnologia  
+🚀 Em busca de aprender e crescer na área de desenvolvimento
 
-Here are some ideas to get you started:
+## 🔧 Tecnologias que uso
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Estatísticas
+![Henrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenrickSilva04&show_icons=true&theme=tokyonight)
+
+## 🔗 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)

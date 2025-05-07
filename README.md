@@ -1,7 +1,6 @@
-# 👋 Olá! Eu sou o Henrick Silva
+# 👋 Olá! Eu sou o Henrick
 
 💻 Desenvolvedor apaixonado por tecnologia  
-📚 Atualmente estudando: Ionic, SimplePHP, desenvolvimento mobile e backend com Spring  
 🚀 Buscando sempre evoluir como desenvolvedor fullstack
 
 ---
@@ -27,7 +26,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Henrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenrickSilva04&show_icons=true&theme=tokyonight)
+[![Henrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenrickSilva04)](https://github.com/HenrickSilva04/github-readme-stats)
 
 ---
 

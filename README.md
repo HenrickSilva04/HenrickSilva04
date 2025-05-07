@@ -28,7 +28,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-[![Henrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenrickSilva04)](https://github.com/HenrickSilva04/github-readme-stats)
+[![Henrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenrickSilva04_icons=true&theme=radical)](https://github.com/HenrickSilva04/github-readme-stats)
 
 ---
 

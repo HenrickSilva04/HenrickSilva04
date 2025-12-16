@@ -13,6 +13,7 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/NodeJS-84c136?logo=nodejs&logoColor=black)
 
 
 ### Frameworks e ferramentas:

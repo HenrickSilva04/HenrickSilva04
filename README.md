@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Henrick
+[# 👋 Olá! Eu sou o Henrick
 
 💻 Desenvolvedor apaixonado por tecnologia  
 🚀 Buscando sempre evoluir como desenvolvedor
@@ -36,3 +36,4 @@
 📫 **Email:** henrick040919@gmail.com
 
 ---
+](https://www.linkedin.com/in/henricksilva/)

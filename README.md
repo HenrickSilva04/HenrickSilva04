@@ -1,4 +1,4 @@
-[# 👋 Olá! Eu sou o Henrick
+👋 Olá! Eu sou o Henrick
 
 💻 Desenvolvedor apaixonado por tecnologia  
 🚀 Buscando sempre evoluir como desenvolvedor
@@ -32,8 +32,5 @@
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrick-silva-ab47a9260)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henricksilva/)  
 📫 **Email:** henrick040919@gmail.com
-
----
-](https://www.linkedin.com/in/henricksilva/)

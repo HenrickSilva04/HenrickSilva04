@@ -26,7 +26,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Henrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenrickSilva04&show_icons=true&theme=tokyonight)
+![Henrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenrickSilva04)]
 
 ---
 
